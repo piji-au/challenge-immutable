@@ -1,0 +1,18 @@
+[
+  {
+    "licencePlate": "A",
+    "size": "large",
+    "fuel": {
+      "capacity": 57,
+      "level": 0.07
+    }
+  },
+  {
+    "licencePlate": "B",
+    "size": "small",
+    "fuel": {
+      "capacity": 63,
+      "level": 0.23
+    }
+  }
+]
